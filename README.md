@@ -1,6 +1,6 @@
 # Discord-Fathom
 
-A Discord bot that records, transcribes, and summarizes voice channel conversations, similar to Fathom AI.
+A Discord bot that records, transcribes, and summarizes voice channel conversations, similar to Fathom AI. Recently shifted to Discord for meetings held outside of Philippine Time (GMT +8) and found it tedious that there were no transcription bots available for Discord outside of Zoom, Google Meet and the like. 
 
 ## Features
 
